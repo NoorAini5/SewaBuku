@@ -1,0 +1,14 @@
+Judul : Negeri 5 Menara
+Nama Pengarang : Ahmad Fuadi
+Genre : Religi, Roman
+Jumlah Halaman : 4 Halaman
+Terbit : gramed
+Harga Sewa : Rp 4
+-------------------------------
+Judul : Negeri 5 Menara
+Nama Pengarang : Ahmad Fuadi
+Genre : Religi, Roman
+Jumlah Halaman : 6 Halaman
+Penerbit : gramed
+Harga Sewa : Rp 200000000
+-------------------------------
